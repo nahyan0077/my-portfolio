@@ -210,7 +210,7 @@ techData.forEach((data) => {
 
 const courseData = [
   {
-    image: "./assets/images/logo-PI.svg",
+    image: "./assets/images/logo-pi.svg",
     track: "Perempuan Inovasi",
     date: "October, 2023 - present",
     name: "Full Stack Web Development",

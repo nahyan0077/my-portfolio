@@ -1054,6 +1054,8 @@ main {
 
 .project-img {
   background-image: url("../images/tourgo-blurred.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
   width: 100%;
   height: 200px;
