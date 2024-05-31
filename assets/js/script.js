@@ -421,7 +421,7 @@ const projectsData = [
     photo: "./assets/images/SheTalk.png",
     lang: "ReactJs, Redux, ExpressJS, Bootstrap, MySQL",
     desc: "Discussion forum focusing on sexual and reproductive health.",
-    link: "https://shetalk-app.netlify.app/",
+    link: "https://github.com/aufaikrimaa/shetalk-app.git",
     github: "https://github.com/aufaikrimaa/shetalk-app.git",
     category: "web development",
   },
