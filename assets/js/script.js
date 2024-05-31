@@ -411,7 +411,7 @@ const projectsData = [
     photo: "./assets/images/kjtg.png",
     lang: "ReactJs, Tailwind",
     desc: "Web Profile of Jeep Tour Galunggung Community.",
-    link: "https://kjtg0421.netlify.app/",
+    link: "https://komunitasjeeptourgalunggung.netlify.app/",
     github: "https://github.com/aufaikrimaa/kjtg-company-profile.git",
     category: "web development",
   },
