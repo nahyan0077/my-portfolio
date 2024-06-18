@@ -178,6 +178,7 @@ contactsData.forEach((data) => {
 
 // tech stack data
 const techData = [
+  "./assets/images/javascript.svg",
   "./assets/images/node-js.svg",
   "./assets/images/reactjs.svg",
   "./assets/images/vite.svg",
@@ -186,8 +187,7 @@ const techData = [
   "./assets/images/bootstrap.svg",
   "./assets/images/mysql.svg",
   "./assets/images/mongodb.svg",
-  "./assets/images/laravel.svg",
-  "./assets/images/python.svg",
+  "./assets/images/GSAP.png",
 ];
 
 const techContainer = document.querySelector(".service-list");
@@ -397,6 +397,16 @@ overlay.addEventListener("click", testimonialsModalFunc);
 const projectsData = [
   {
     id: 1,
+    title: "LensaKita (On Progress)",
+    photo: "./assets/images/lensakita.png",
+    lang: "ReactJs, Tailwind, ExpressJs, GSAP",
+    desc: "Web Profile of LensaKita.",
+    link: "https://lensakita.vercel.app/",
+    github: "https://github.com/aufaikrimaa/lensakita.git",
+    category: "web development",
+  },
+  {
+    id: 2,
     title: "auLibz",
     photo: "./assets/images/auLibz.png",
     lang: "ReactJs, Redux, Tailwind, Google Books API",
@@ -406,17 +416,17 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 2,
+    id: 3,
     title: "KJTG Company Profile",
     photo: "./assets/images/kjtg.png",
-    lang: "ReactJs, Tailwind",
+    lang: "ReactJs, Tailwind, Shadcn UI",
     desc: "Web Profile of Jeep Tour Galunggung Community.",
     link: "https://komunitasjeeptourgalunggung.netlify.app/",
     github: "https://github.com/aufaikrimaa/kjtg-company-profile.git",
     category: "web development",
   },
   {
-    id: 3,
+    id: 4,
     title: "She Talk",
     photo: "./assets/images/SheTalk.png",
     lang: "ReactJs, Redux, ExpressJS, Bootstrap, MySQL",
@@ -426,7 +436,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 6,
+    id: 5,
     title: "Tour Go",
     photo: "./assets/images/tourgo.png",
     lang: "ReactJs, Laravel 8, Bootstrap, MySQL",
@@ -436,8 +446,8 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 4,
-    title: "To Do List App",
+    id: 6,
+    title: "Simple To Do List App",
     photo: "./assets/images/todolist.png",
     lang: "ReactJs, Tailwind, Redux",
     desc: "A simple website for To Do List management.",
@@ -446,7 +456,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 5,
+    id: 7,
     title: "Agtsha",
     photo: "./assets/images/agtsha.png",
     lang: "ReactJs, Tailwind",
