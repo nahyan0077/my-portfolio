@@ -178,6 +178,8 @@ contactsData.forEach((data) => {
 
 // tech stack data
 const techData = [
+  "./assets/images/html.svg",
+  "./assets/images/css.svg",
   "./assets/images/javascript.svg",
   "./assets/images/node-js.svg",
   "./assets/images/reactjs.svg",
@@ -399,7 +401,7 @@ const projectsData = [
     id: 1,
     title: "LensaKita (On Progress)",
     photo: "./assets/images/lensakita.png",
-    lang: "ReactJs, Tailwind, ExpressJs, GSAP",
+    lang: "ReactJs, ExpressJs, Tailwind, GSAP",
     desc: "Web Profile of LensaKita.",
     link: "https://lensakita.vercel.app/",
     github: "https://github.com/aufaikrimaa/lensakita.git",
@@ -419,7 +421,7 @@ const projectsData = [
     id: 3,
     title: "KJTG Company Profile",
     photo: "./assets/images/kjtg.png",
-    lang: "ReactJs, Tailwind, Shadcn UI",
+    lang: "ReactJs, ExpressJS, Tailwind, Shadcn UI",
     desc: "Web Profile of Jeep Tour Galunggung Community.",
     link: "https://komunitasjeeptourgalunggung.netlify.app/",
     github: "https://github.com/aufaikrimaa/kjtg-company-profile.git",
