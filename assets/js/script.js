@@ -403,7 +403,7 @@ const projectsData = [
     photo: "./assets/images/lensakita.png",
     lang: "ReactJs, ExpressJs, Tailwind, GSAP",
     desc: "Web Profile of LensaKita.",
-    link: "https://lensakita01.vercel.app/",
+    link: "https://lensakita.vercel.app/",
     github: "https://github.com/aufaikrimaa/lensakita.git",
     category: "web development",
   },
