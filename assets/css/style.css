@@ -2072,3 +2072,32 @@ textarea.form-input::-webkit-resizer {
     max-width: 700px;
   }
 }
+
+
+.tech-stack {
+  margin-bottom: 30px;
+}
+
+.tech-stack-title {
+  margin-bottom: 20px;
+}
+
+.tech-stack-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.tech-item {
+  background-color: #1e2a3a;
+  color: #64ffda;
+  border: 1px solid #64ffda;
+  border-radius: 20px;
+  padding: 5px 15px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.tech-item:hover {
+  background-color: rgba(100, 255, 218, 0.1);
+}

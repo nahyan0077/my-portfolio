@@ -132,26 +132,26 @@ const contactsData = [
   {
     ionic: "mail-outline",
     title: "Email",
-    link: "mailto:aufaikrimah@gmail.com",
-    name: "aufaikrimah@gmail.com",
+    link: "mailto:nahyanmp4@gmail.com",
+    name: "nahyanmp4@gmail.com",
   },
   {
     ionic: "logo-github",
     title: "GitHub",
-    link: "https://github.com/aufaikrimaa",
-    name: "github.com/aufaikrimaa",
+    link: "https://github.com/nahyan",
+    name: "github.com/nahyan0077",
   },
   {
     ionic: "logo-linkedin",
     title: "LinkedIn",
-    link: "https://www.linkedin.com/in/aufa-ikrimah/",
-    name: "linkedin.com/in/aufa-ikrimah/",
+    link: "https://www.linkedin.com/in/nahyan9094/",
+    name: "linkedin.com/in/nahyan/",
   },
   {
     ionic: "location-outline",
     title: "Location",
     link: "https://maps.app.goo.gl/octtXjW5Pgmh6Y4X8",
-    name: "Central Java, Indonesia",
+    name: "Malappuram, kerala, India",
   },
 ];
 
@@ -194,124 +194,124 @@ const techData = [
 
 const techContainer = document.querySelector(".service-list");
 
-techData.forEach((data) => {
-  const techHTML = `<div class="service-item">
-  <div class="service-icon-box">
-    <img
-      src="${data}"
-      alt="design icon"
-      width="48"
-    />
-  </div>
-</div>`;
+// techData.forEach((data) => {
+//   const techHTML = `<div class="service-item">
+//   <div class="service-icon-box">
+//     <img
+//       src="${data}"
+//       alt="design icon"
+//       width="48"
+//     />
+//   </div>
+// </div>`;
 
-  techContainer.innerHTML += techHTML;
-});
+//   techContainer.innerHTML += techHTML;
+// });
 
 // course data
 
 const courseData = [
-  {
-    image: "./assets/images/logo-pi.svg",
-    track: "Perempuan Inovasi",
-    date: "October, 2023 - present",
-    name: "Full Stack Web Development",
-    content:
-      "Front-end : ReactJs, Tailwind, Bootstrap, Redux. Back-end: ExpressJS, MySQL, MongoDB",
-    link: "https://drive.google.com/file/d/1Z_yzOpTfeV7IA5hoC3XCx4nFxkpfFvQV/view",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/skilvul.svg",
-    track: "Skilvul",
-    date: "June - September, 2023",
-    name: "Web Development",
-    content: "Learning web development with HTML, CSS, and Vanilla Javascript",
-    link: "https://skilvul.com/paths/web-development-pemula-challenge-based/student/clliuhbqq1ivq01qk3t6ccvi1",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/myskill.svg",
-    track: "MySkill",
-    date: "September, 2023",
-    name: "CSS language",
-    content: "",
-    link: "https://drive.google.com/file/d/1Wb9P-oJU865Q87xbKDUUO_mgSiZyi4Pn/view?usp=drive_link",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/logo-bnsp.svg",
-    track: "BNSP",
-    date: "August 02, 2023",
-    name: "Software Development",
-    content: "Certificate of Competence in the area of Software Development",
-    link: "https://drive.google.com/file/d/1PHlPkjjhlYmRcfBzlcRkCyglpLw3XPg7/view?usp=drive_link",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/myskill.svg",
-    track: "MySkill",
-    date: "May, 2023",
-    name: "HTML language",
-    content: "",
-    link: "https://drive.google.com/file/d/13O7evdLokkKLdPpWny6wbbBnZ777l5qP/view?usp=drive_link",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/code.svg",
-    track: "Self learning",
-    date: "January - June, 2023",
-    name: "Framework Laravel & Library ReactJS",
-    content:
-      "I built the TourGo App using the Laravel Framework and the ReactJS Library, learning them on my own through the internet",
-    link: "",
-    credentials: "",
-  },
-  {
-    image: "./assets/images/logo-bsi.svg",
-    track: "UBSI University",
-    date: "Sept - Dec, 2022",
-    name: "Mobile Programming",
-    content: "Learning mobile app development with flutter",
-    link: "",
-    credentials: "",
-  },
-  {
-    image: "./assets/images/logo-bsi.svg",
-    track: "UBSI University",
-    date: "Sept, 2021 - June, 2022",
-    name: "Web Programming",
-    content: "Learning web development with CodeIgniter 3",
-    link: "",
-    credentials: "",
-  },
-  {
-    image: "./assets/images/cisco.svg",
-    track: "Cisco Net Academy",
-    date: "August, 2021",
-    name: "PCAP: Programming Essentials in Python",
-    content: "",
-    link: "https://drive.google.com/file/d/1fmOyFe1XobPqQRxoas6k1FDxfYQ13hwc/view?usp=drive_link",
-    credentials: "see credentials &gt&gt",
-  },
-  {
-    image: "./assets/images/logo-bsi.svg",
-    track: "UBSI University",
-    date: "March - June, 2021",
-    name: "Database System",
-    content: "Learning SQL language for database management",
-    link: "",
-    credentials: "",
-  },
-  {
-    image: "./assets/images/logo-bsi.svg",
-    track: "UBSI University",
-    date: "August, 2020 - Jan 2021",
-    name: "Fundamentals of Python Programming",
-    content: "Learning to build programs with the Python language",
-    link: "",
-    credentials: "",
-  },
+  // {
+  //   image: "./assets/images/logo-pi.svg",
+  //   track: "Perempuan Inovasi",
+  //   date: "October, 2023 - present",
+  //   name: "Full Stack Web Development",
+  //   content:
+  //     "Front-end : ReactJs, Tailwind, Bootstrap, Redux. Back-end: ExpressJS, MySQL, MongoDB",
+  //   link: "https://drive.google.com/file/d/1Z_yzOpTfeV7IA5hoC3XCx4nFxkpfFvQV/view",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/skilvul.svg",
+  //   track: "Skilvul",
+  //   date: "June - September, 2023",
+  //   name: "Web Development",
+  //   content: "Learning web development with HTML, CSS, and Vanilla Javascript",
+  //   link: "https://skilvul.com/paths/web-development-pemula-challenge-based/student/clliuhbqq1ivq01qk3t6ccvi1",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/myskill.svg",
+  //   track: "MySkill",
+  //   date: "September, 2023",
+  //   name: "CSS language",
+  //   content: "",
+  //   link: "https://drive.google.com/file/d/1Wb9P-oJU865Q87xbKDUUO_mgSiZyi4Pn/view?usp=drive_link",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/logo-bnsp.svg",
+  //   track: "BNSP",
+  //   date: "August 02, 2023",
+  //   name: "Software Development",
+  //   content: "Certificate of Competence in the area of Software Development",
+  //   link: "https://drive.google.com/file/d/1PHlPkjjhlYmRcfBzlcRkCyglpLw3XPg7/view?usp=drive_link",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/myskill.svg",
+  //   track: "MySkill",
+  //   date: "May, 2023",
+  //   name: "HTML language",
+  //   content: "",
+  //   link: "https://drive.google.com/file/d/13O7evdLokkKLdPpWny6wbbBnZ777l5qP/view?usp=drive_link",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/code.svg",
+  //   track: "Self learning",
+  //   date: "January - June, 2023",
+  //   name: "Framework Laravel & Library ReactJS",
+  //   content:
+  //     "I built the TourGo App using the Laravel Framework and the ReactJS Library, learning them on my own through the internet",
+  //   link: "",
+  //   credentials: "",
+  // },
+  // {
+  //   image: "./assets/images/logo-bsi.svg",
+  //   track: "UBSI University",
+  //   date: "Sept - Dec, 2022",
+  //   name: "Mobile Programming",
+  //   content: "Learning mobile app development with flutter",
+  //   link: "",
+  //   credentials: "",
+  // },
+  // {
+  //   image: "./assets/images/logo-bsi.svg",
+  //   track: "UBSI University",
+  //   date: "Sept, 2021 - June, 2022",
+  //   name: "Web Programming",
+  //   content: "Learning web development with CodeIgniter 3",
+  //   link: "",
+  //   credentials: "",
+  // },
+  // {
+  //   image: "./assets/images/cisco.svg",
+  //   track: "Cisco Net Academy",
+  //   date: "August, 2021",
+  //   name: "PCAP: Programming Essentials in Python",
+  //   content: "",
+  //   link: "https://drive.google.com/file/d/1fmOyFe1XobPqQRxoas6k1FDxfYQ13hwc/view?usp=drive_link",
+  //   credentials: "see credentials &gt&gt",
+  // },
+  // {
+  //   image: "./assets/images/logo-bsi.svg",
+  //   track: "UBSI University",
+  //   date: "March - June, 2021",
+  //   name: "Database System",
+  //   content: "Learning SQL language for database management",
+  //   link: "",
+  //   credentials: "",
+  // },
+  // {
+  //   image: "./assets/images/logo-bsi.svg",
+  //   track: "UBSI University",
+  //   date: "August, 2020 - Jan 2021",
+  //   name: "Fundamentals of Python Programming",
+  //   content: "Learning to build programs with the Python language",
+  //   link: "",
+  //   credentials: "",
+  // },
 ];
 
 // testimonials variables
@@ -399,19 +399,19 @@ overlay.addEventListener("click", testimonialsModalFunc);
 const projectsData = [
   {
     id: 1,
-    title: "LensaKita (On Progress)",
-    photo: "./assets/images/lensakita.png",
-    lang: "ReactJs, ExpressJs, Tailwind, GSAP",
+    title: "Eduverse E-Learning",
+    photo: "./assets/images/eduverse.png",
+    lang: "ReactJs, ExpressJs, Tailwind, MongoDB",
     desc: "Web Profile of LensaKita.",
-    link: "https://lensakita.vercel.app/",
-    github: "https://github.com/aufaikrimaa/lensakita.git",
+    link: "https://drop-ship.shop/",
+    github: "https://github.com/eduverse-backend",
     category: "web development",
   },
   {
     id: 2,
-    title: "auLibz",
-    photo: "./assets/images/auLibz.png",
-    lang: "ReactJs, Redux, Tailwind, Google Books API",
+    title: "Drop Ship",
+    photo: "./assets/images/dropship.png",
+    lang: "ExpressJs, HTML, CSS, MongoDB, NodeJs",
     desc: "Online library with over 200 ebooks sourced from Google Books.",
     link: "https://library-app-by-aufa.vercel.app/",
     github: "https://github.com/aufaikrimaa/library-app.git",
@@ -419,9 +419,9 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "KJTG Company Profile",
-    photo: "./assets/images/kjtg.png",
-    lang: "ReactJs, ExpressJS, Tailwind, Shadcn UI",
+    title: "Flip-Chat",
+    photo: "./assets/images/flip-chat.png",
+    lang: "ReactJs, ExpressJS, Tailwind, MongoDB, NodeJs",
     desc: "Web Profile of Jeep Tour Galunggung Community.",
     link: "https://komunitasjeeptourgalunggung.netlify.app/",
     github: "https://github.com/aufaikrimaa/kjtg-company-profile.git",
@@ -429,9 +429,9 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "She Talk",
-    photo: "./assets/images/SheTalk.png",
-    lang: "ReactJs, Redux, ExpressJS, Bootstrap, MySQL",
+    title: "Netflix - Clone",
+    photo: "./assets/images/netflix.png",
+    lang: "ReactJs, Redux, ExpressJS, FireBase",
     desc: "Discussion forum focusing on sexual and reproductive health.",
     link: "https://github.com/aufaikrimaa/shetalk-app.git",
     github: "https://github.com/aufaikrimaa/shetalk-app.git",
@@ -439,9 +439,9 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Tour Go",
-    photo: "./assets/images/tourgo.png",
-    lang: "ReactJs, Laravel 8, Bootstrap, MySQL",
+    title: "ToDo App",
+    photo: "./assets/images/todo.png",
+    lang: "ReactJs, CSS, Bootstrap",
     desc: "Platform that connects tour guides and travelers.",
     link: "https://github.com/aufaikrimaa/Aplikasi-TourGo.git",
     github: "https://github.com/aufaikrimaa/Aplikasi-TourGo.git",
@@ -449,9 +449,9 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Simple To Do List App",
-    photo: "./assets/images/todolist.png",
-    lang: "ReactJs, Tailwind, Redux",
+    title: "OLX - Clone",
+    photo: "./assets/images/olx.png",
+    lang: "ReactJs, Tailwind, Redux, NodeJs",
     desc: "A simple website for To Do List management.",
     link: "https://todo-list-byaufaa.netlify.app/",
     github: "https://github.com/aufaikrimaa/todolist-fe.git",
@@ -459,9 +459,39 @@ const projectsData = [
   },
   {
     id: 7,
-    title: "Agtsha",
-    photo: "./assets/images/agtsha.png",
-    lang: "ReactJs, Tailwind",
+    title: "User - Mangement - App",
+    photo: "./assets/images/user-manage.png",
+    lang: "ReactJs, ExpressJs, MongoDB, NodeJs",
+    desc: "A website to showcasing the products and links.",
+    link: "https://agtsha-id.netlify.app/",
+    github: "https://github.com/aufaikrimaa/agtsha.id.git",
+    category: "web development",
+  },
+  {
+    id: 8,
+    title: "Kia Static Clone",
+    photo: "./assets/images/kia.png",
+    lang: "HTML, CSS, Bootstrap",
+    desc: "A website to showcasing the products and links.",
+    link: "https://agtsha-id.netlify.app/",
+    github: "https://github.com/aufaikrimaa/agtsha.id.git",
+    category: "web development",
+  },
+  {
+    id: 9,
+    title: "Razer Static Clone",
+    photo: "./assets/images/razer.png",
+    lang: "HTML, CSS, Bootstrap",
+    desc: "A website to showcasing the products and links.",
+    link: "https://agtsha-id.netlify.app/",
+    github: "https://github.com/aufaikrimaa/agtsha.id.git",
+    category: "web development",
+  },
+  {
+    id: 10,
+    title: "Harley Static Clone",
+    photo: "./assets/images/harley.png",
+    lang: "HTML, CSS, Bootstrap",
     desc: "A website to showcasing the products and links.",
     link: "https://agtsha-id.netlify.app/",
     github: "https://github.com/aufaikrimaa/agtsha.id.git",
