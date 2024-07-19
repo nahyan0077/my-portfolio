@@ -2129,3 +2129,21 @@ textarea.form-input::-webkit-resizer {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
+
+
+.download-btn {
+  background-color: rgb(70, 69, 69);
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.download-btn:hover {
+  background-color: gray;
+}

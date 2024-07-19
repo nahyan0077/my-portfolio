@@ -145,7 +145,7 @@ const contactsData = [
     ionic: "logo-linkedin",
     title: "LinkedIn",
     link: "https://www.linkedin.com/in/nahyan9094/",
-    name: "linkedin.com/in/nahyan/",
+    name: "linkedin.com/in/nahyan9094",
   },
   {
     ionic: "location-outline",
