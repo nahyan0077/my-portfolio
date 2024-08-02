@@ -419,6 +419,16 @@ const projectsData = [
   },
   {
     id: 3,
+    title: "QuickTools",
+    photo: "./assets/images/quick-tools.png",
+    lang: "ReactJs, Tailwind",
+    desc: "Web Profile of Jeep Tour Galunggung Community.",
+    link: "https://quicktool-ny.netlify.app/",
+    github: "",
+    category: "web development",
+  },
+  {
+    id: 4,
     title: "Flip-Chat",
     photo: "./assets/images/flip-chat.png",
     lang: "ReactJs, ExpressJS, Tailwind, MongoDB, NodeJs",
@@ -428,7 +438,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 4,
+    id: 5,
     title: "Netflix - Clone",
     photo: "./assets/images/netflix.png",
     lang: "ReactJs, Redux, ExpressJS, FireBase",
@@ -438,7 +448,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 5,
+    id: 6,
     title: "ToDo App",
     photo: "./assets/images/todo.png",
     lang: "ReactJs, CSS, Bootstrap",
@@ -448,7 +458,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 6,
+    id: 7,
     title: "OLX - Clone",
     photo: "./assets/images/olx.png",
     lang: "ReactJs, Tailwind, Redux, NodeJs",
@@ -458,7 +468,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 7,
+    id: 8,
     title: "User - Mangement - App",
     photo: "./assets/images/user-manage.png",
     lang: "ReactJs, ExpressJs, MongoDB, NodeJs",
@@ -468,7 +478,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 8,
+    id: 9,
     title: "Kia Static Clone",
     photo: "./assets/images/kia.png",
     lang: "HTML, CSS, Bootstrap",
@@ -478,7 +488,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 9,
+    id: 10,
     title: "Razer Static Clone",
     photo: "./assets/images/razer.png",
     lang: "HTML, CSS, Bootstrap",
@@ -488,7 +498,7 @@ const projectsData = [
     category: "web development",
   },
   {
-    id: 10,
+    id: 11,
     title: "Harley Static Clone",
     photo: "./assets/images/harley.png",
     lang: "HTML, CSS, Bootstrap",
