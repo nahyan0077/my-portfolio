@@ -138,7 +138,7 @@ const contactsData = [
   {
     ionic: "logo-github",
     title: "GitHub",
-    link: "https://github.com/nahyan",
+    link: "https://github.com/nahyan0077",
     name: "github.com/nahyan0077",
   },
   {
@@ -148,10 +148,10 @@ const contactsData = [
     name: "linkedin.com/in/nahyan9094",
   },
   {
-    ionic: "location-outline",
-    title: "Location",
-    link: "https://maps.app.goo.gl/octtXjW5Pgmh6Y4X8",
-    name: "Malappuram, kerala, India",
+    ionic: "code-slash-outline",
+    title: "LeetCode",
+    link: "https://leetcode.com/u/nahyanmp4/",
+    name: "https://leetcode.com/u/nahyanmp4/",
   },
 ];
 
@@ -403,7 +403,7 @@ const projectsData = [
     photo: "./assets/images/eduverse.png",
     lang: "ReactJs, ExpressJs, Tailwind, MongoDB",
     desc: "Web Profile of LensaKita.",
-    link: "https://drop-ship.shop/",
+    link: "https://eduverse-frontend.vercel.app/",
     github: "https://github.com/eduverse-backend",
     category: "web development",
   },
